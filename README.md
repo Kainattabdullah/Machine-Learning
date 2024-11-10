@@ -1,6 +1,6 @@
-# Machine Learning Repository
+# Machine Learning 
 
-This repository hosts various Jupyter Notebooks demonstrating different machine learning techniques and applications. Each notebook focuses on a specific dataset or algorithm, providing insights into data handling, modeling, and evaluation.
+My Machine Learning repository host various Jupyter Notebooks demonstrating different machine learning techniques and applications. Each notebook focuses on a specific dataset or algorithm, providing insights into data handling, modeling, and evaluation.
 
 ## Table of Contents
 
