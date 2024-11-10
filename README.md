@@ -14,7 +14,7 @@ My Machine Learning repository host various Jupyter Notebooks demonstrating diff
 8. Linear Regression with Random Data
 9. Logistic Regression on Iris Dataset
 10.  Machine Learning Techniques
-11. [Support Vector Machines for Regression
+11. Support Vector Machines for Regression
 ## Contributing
 
 If you would like to contribute to this repository, please fork the repository and submit a pull request with your changes.
