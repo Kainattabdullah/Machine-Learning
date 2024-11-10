@@ -4,17 +4,17 @@ My Machine Learning repository host various Jupyter Notebooks demonstrating diff
 
 ## Table of Contents
 
-1. [Wine Dataset Analysis](#wine-dataset-analysis)
-2. [Digits Dataset Classification](#digits-dataset-classification)
-3. [Classification Algorithms on Heart Disease](#classification-algorithms-on-heart-disease)
-4. [Neural Networks](#neural-networks)
-5. [Data Generation and Visualization](#data-generation-and-visualization)
-6. [Implementation of Regression](#implementation-of-regression)
-7. [K-Nearest Neighbors Classifier](#k-nearest-neighbors-classifier)
-8. [Linear Regression with Random Data](#linear-regression-with-random-data)
-9. [Logistic Regression on Iris Dataset](#logistic-regression-on-iris-dataset)
-10. [ Machine Learning Techniques](#-machine-learning-techniques)
-11. [Support Vector Machines for Regression](#support-vector-machines-for-regression)
+1. [Wine Dataset Analysis]
+2. [Digits Dataset Classification]
+3. [Classification Algorithms on Heart Disease]
+4. [Neural Networks]
+5. [Data Generation and Visualization]
+6. [Implementation of Regression]
+7. [K-Nearest Neighbors Classifier]
+8. [Linear Regression with Random Data]
+9. [Logistic Regression on Iris Dataset]
+10. [ Machine Learning Techniques]
+11. [Support Vector Machines for Regression]
 ## Contributing
 
 If you would like to contribute to this repository, please fork the repository and submit a pull request with your changes.
