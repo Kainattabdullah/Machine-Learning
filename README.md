@@ -15,4 +15,16 @@ My Machine Learning repository host various Jupyter Notebooks demonstrating diff
 9. [Logistic Regression on Iris Dataset](#logistic-regression-on-iris-dataset)
 10. [ Machine Learning Techniques](#-machine-learning-techniques)
 11. [Support Vector Machines for Regression](#support-vector-machines-for-regression)
+## Contributing
+
+If you would like to contribute to this repository, please fork the repository and submit a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- MATLAB documentation for image processing techniques.
+- Community resources and contributions.
 
